@@ -7,7 +7,7 @@ import '../utils/constants.dart';
 import '../data/app_data.dart';
 import '../screens/details.dart';
 import 'package:provider/provider.dart';
-import 'package:alterra_mini_project/model/searchprovider.dart';
+import 'package:alterra_mini_project/model/search_provider.dart';
 
 class Search extends StatefulWidget {
   const Search({super.key});
